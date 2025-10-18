@@ -19,15 +19,23 @@ Users can generate random passwords of custom length, including numbers and spec
 
 🧩 Technologies Used
 
-React.js – For building the interactive UI.
-Tailwind CSS – For styling and responsiveness.
-JavaScript – For logic and DOM handling.
-React Hooks:
-useState: is used to store and update values in the component.
-useCallback: is used to memoize (remember) functions so they don’t get recreated on every render — improving performance.
-useEffect: is used to run code automatically whenever specific values change.
-useRef: gives a direct reference to a DOM element — like an input box.
+🔹 React.js – For building the interactive UI.
+
+🔹 Tailwind CSS – For styling and responsiveness.
+
+🔹 JavaScript – For logic and DOM handling.
+
+🔹 React Hooks:
+
+🔹 useState: is used to store and update values in the component.
+
+🔹 useCallback: is used to memoize (remember) functions so they don’t get recreated on every render — improving performance.
+
+🔹 useEffect: is used to run code automatically whenever specific values change.
+
+🔹 useRef: gives a direct reference to a DOM element — like an input box.
 
 🖼️ Project Preview
-<img width="748" height="414" alt="Screenshot 2025-10-18 233005" src="https://github.com/user-attachments/assets/fb739759-5a14-4ab1-b6fc-d7bec8ed59e1" />
+<img width="670" height="369" alt="Screenshot 2025-10-18 233351" src="https://github.com/user-attachments/assets/05fea973-aa32-4064-a411-72ca3b358fb3" />
+
 
