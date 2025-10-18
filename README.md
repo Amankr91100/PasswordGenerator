@@ -1,16 +1,33 @@
-# React + Vite
+🔐 Password Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and powerful Password Generator built using React.js and Tailwind CSS.
+Users can generate random passwords of custom length, including numbers and special characters, and copy them instantly with one click.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click Here to Try the App](https://password-generator-five-liard.vercel.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧠 Features
 
-## Expanding the ESLint configuration
+🎚️ Set password length (from 6 to 100)
+🔢 Option to include numbers
+🔣 Option to include special characters
+⚡ Instant password generation
+📋 Copy to clipboard functionality
+🎨 Clean and responsive UI using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 Technologies Used
+
+React.js – For building the interactive UI
+Tailwind CSS – For styling and responsiveness
+JavaScript – For logic and DOM handling
+React Hooks:
+ useState: is used to store and update values in the component.
+ useCallback: is used to memoize (remember) functions so they don’t get recreated on every render — improving performance.
+ useEffect: is used to run code automatically whenever specific values change.
+ useRef: gives a direct reference to a DOM element — like an input box.
+
+🖼️ Project Preview
+<img width="748" height="414" alt="Screenshot 2025-10-18 233005" src="https://github.com/user-attachments/assets/fb739759-5a14-4ab1-b6fc-d7bec8ed59e1" />
+
